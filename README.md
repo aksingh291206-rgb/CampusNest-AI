@@ -135,6 +135,8 @@ CampusNest-AI/
 ├── backend/                       # FastAPI backend
 │   └── main.py
 │
+|__ assets
+|
 ├── campus_nest/
 │   ├── Campus_Nest_Core/
 │   │   └── agents/                # Multi-agent AI architecture
@@ -451,8 +453,6 @@ The following screenshots showcase the user interface and key features of Campus
 
 ### 🏗️ System Architecture
 
-> **Replace the placeholder below with your architecture diagram.**
-
 ![System Architecture](PLACEHOLDER_ARCHITECTURE)
 
 ---
@@ -461,7 +461,7 @@ The following screenshots showcase the user interface and key features of Campus
 
 Watch the complete project walkthrough here:
 
-**YouTube:** `YOUR_YOUTUBE_VIDEO_LINK`
+**YouTube:** `https://youtu.be/wYoSmXI5w_A?si=99WwlNo5t7nooKy1`
 
 ---
 
