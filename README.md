@@ -551,9 +551,9 @@ For more information, see the **LICENSE** file included in this repository.
 
 Passionate about building intelligent, scalable, and user-centric AI solutions that solve real-world problems through modern software engineering and multi-agent systems.
 
-* 💼 **LinkedIn:** *Your LinkedIn Profile URL*
+* 💼 **LinkedIn:** *www.linkedin.com/in/amit-singh-185681415*
 * 💻 **GitHub:** https://github.com/aksingh291206-rgb
-* 📧 **Email:** *Your Professional Email (Optional)*
+* 📧 **Email:** *aksingh291206@gmail.com*
 
 ### Connect
 
