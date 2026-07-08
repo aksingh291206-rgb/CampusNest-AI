@@ -538,3 +538,15 @@ async def whatsapp_webhook(request: Request):
     response.message(response_text)
 
     return Response(content=str(response), media_type="application/xml")
+
+@app.post("/logout")
+async def logout(data: dict):
+
+    session_id = data["sessionId"]
+
+    # TODO:
+    # Clear the ADK session / authentication state here
+
+    return {
+        "message": "Logged out successfully."
+    }
